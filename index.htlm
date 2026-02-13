@@ -26,7 +26,8 @@ input, button { padding:12px; margin:8px; font-size:16px; }
 <script>
 
 const RADIO = 150;
-const URL_SCRIPT = "PEGAR_AQUI_TU_LINK_DE_GOOGLE_SCRIPT";
+const URL_SCRIPT = const URL_SCRIPT = "https://script.google.com/macros/s/AKfycbxMRm9-LHA0995SaRNfvxwKsrKgGyV5kBrpBoIx6a0W8s2n_KN_tfIQFU7nFfoZO1-CgQ/exec";
+
 
 const UBICACIONES = [
 
